@@ -1,4 +1,4 @@
-module gitlab.rossathome.co.uk/graeme/configur
+module github.com/graememross/configur
 
 go 1.16
 
